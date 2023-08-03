@@ -1,2 +1,0 @@
-# xiters
-Xiters FiveM
